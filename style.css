@@ -99,11 +99,13 @@ p{
 .images{
   width: 50vw;
   background-color: #2f2f2fff;
+  border-radius: 25px;
 }
 
 .images2{
   width: 100vw;
   background-color: #2f2f2fff;
+  border-radius: 25px;
 }
 
 .images_table{
