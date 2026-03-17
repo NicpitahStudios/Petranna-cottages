@@ -45,8 +45,8 @@ p{
 }
 
 .product{
-  margin-top: 5px;
-  margin-bottom: 0px;
+  width: 100vw;
+  margin-bottom: 5px;
 }
 
 .selected_product{
@@ -113,16 +113,3 @@ p{
 .images_table{
   margin: 1.5vw;
 }
-
-.product_image_cell{
-  width: 50vw;
-  text-align: center;
-  vertical-align: middle;
-}
-
-.product_text_cell{
-  text-align: left;
-  vertical-align: middle;
-  width: 50vw;
-}
-
