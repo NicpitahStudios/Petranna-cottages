@@ -47,6 +47,7 @@ p{
 .product{
   width: 100vw;
   margin-bottom: 5px;
+  margin-left: 2vw;
 }
 
 .selected_product{
